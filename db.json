@@ -10,8 +10,36 @@
       "id": "58ff",
       "nome": "lua",
       "renda": "1300",
-      "orcamentoDiario": 43.333333333333336
+      "orcamentoDiario": 33.333333333333336
     }
   ],
-  "transacoes": []
+  "transacoes": [
+    {
+      "id": "3c2b",
+      "nome": "roupa",
+      "valor": 100,
+      "tipo": "despesa",
+      "categoria": "Roupa",
+      "data": "2025-09-22",
+      "userId": "58ff"
+    },
+    {
+      "id": "c394",
+      "nome": "trabalho",
+      "valor": 100,
+      "tipo": "receita",
+      "categoria": "trabalho",
+      "data": "2025-09-10",
+      "userId": "58ff"
+    },
+    {
+      "id": "b50e",
+      "nome": "comida",
+      "valor": 10,
+      "tipo": "despesa",
+      "categoria": "alimentação",
+      "data": "2025-09-02",
+      "userId": "58ff"
+    }
+  ]
 }

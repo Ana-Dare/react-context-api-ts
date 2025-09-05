@@ -14,7 +14,6 @@ import CampoTexto from "../../componentes/CampoTexto/index.js";
 import Fieldset from "../../componentes/Fieldset/index.js";
 import Label from "../../componentes/Label/index.js";
 import { IUsuario } from "../../types/index.js";
-import { criarUsuario } from "../../api/index.js";
 import { useAppContext } from "../../context/AppContext.js";
 
 const Cadastro = () => {
