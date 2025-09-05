@@ -1,9 +1,16 @@
 {
   "usuarios": [
     {
-      "id": "6c74",
+      "id": "f064",
       "nome": "ana",
-      "renda": "700"
+      "renda": "700",
+      "orcamentoDiario": 23.333333333333332
+    },
+    {
+      "id": "58ff",
+      "nome": "lua",
+      "renda": "1300",
+      "orcamentoDiario": 43.333333333333336
     }
   ],
   "transacoes": []
